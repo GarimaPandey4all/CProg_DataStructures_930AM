@@ -1,0 +1,19 @@
+Priority Queue
+
+-Priority is a special type of queue
+
+-in which each element is associated with a priority and is served according to its priority.
+
+-If elements with the same priority occur, they are served according to their order in the queue.
+
+-Element with the highest priority is deque from the queue.
+
+-In a queue, the FIFO rule is implemented whereas in priority queue, the values are removed on the basis of priority. The value with the highest priority is removed first.
+
+-Priority Queue can be implemented using:
+an array
+a linked list
+a heap data structure
+
+-Inbuilt priority queue
+
