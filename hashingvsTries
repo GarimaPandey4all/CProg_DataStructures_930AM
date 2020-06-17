@@ -1,0 +1,13 @@
+Hashing(O(1)average case) vs Tries(O(1)best case):
+
+Advantages:
+1. It is faster than hashing because of the ways it is implemented. we do not compute  any hash function. No collision handling is required.
+
+2. We can easily print all words in alphabetical order which is not easily possible with hashing.
+
+3. We can efficiently do prefix search with trie.
+
+Disadvantages:
+
+1. A lot of memory required for storing the strinds, because od each node have too many node pointers.
+
